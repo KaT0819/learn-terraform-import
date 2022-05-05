@@ -57,6 +57,7 @@ HashiCorp Learn.
 1. Generate configuration and save it in `docker.tf`, replacing the empty
     resource created earlier.
 
+    Stateの内容をコピー
     ```shell
     terraform show -no-color > docker.tf
     ```
